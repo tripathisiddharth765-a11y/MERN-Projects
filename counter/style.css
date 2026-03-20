@@ -1,0 +1,29 @@
+#label{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+
+button{
+    display: block;
+    text-align: center;  
+    font-size: 2em;  
+    margin: auto;
+    background-color:rgb(70, 70, 197);
+    color: rgb(232, 237, 241);
+    padding: 2px;
+    transition: 0.3 ease;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(32, 32, 207);
+}
+
+
+body{
+    background-color: rgb(73, 135, 229);
+    transition: all;
+    animation:inherit;
+}
+
