@@ -1,0 +1,27 @@
+body{
+    align-items: center;
+    display: block;
+    justify-content: center;
+    background-color: darkgoldenrod;
+}
+
+div{
+    align-items: center;
+    display: block;
+    justify-content: center;
+    height: max-content;
+    width: max-content;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    background-color: rgb(242, 207, 119);
+}
+
+button{
+    background-color: rgb(232, 218, 162);
+}
+p{
+    font-size: 2em;
+    color: rgb(55, 59, 16);
+}
