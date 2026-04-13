@@ -1,0 +1,19 @@
+#mydiv1{
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    margin : auto;
+    height: 100vh;
+    width: 50%;
+}
+
+#mydiv2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+#pokemonImg{
+    size: 3em;
+}
